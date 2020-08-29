@@ -1,0 +1,796 @@
+,Date,Area,Daily Cases,Cumulative Cases,Recovered,Active,Deaths
+794,2020-03-13,Santa Barbara County Totals,0,0,0,0,0
+793,2020-03-14,Santa Barbara County Totals,0,0,0,0,0
+792,2020-03-15,Santa Barbara County Totals,0,1,0,1,0
+791,2020-03-16,Santa Barbara County Totals,0,1,0,1,0
+790,2020-03-17,Santa Barbara County Totals,0,2,0,2,0
+789,2020-03-18,Santa Barbara County Totals,0,3,0,3,0
+788,2020-03-19,Santa Barbara County Totals,0,9,0,9,0
+787,2020-03-20,Santa Barbara County Totals,0,9,0,9,0
+786,2020-03-21,Santa Barbara County Totals,0,13,0,13,0
+785,2020-03-22,Santa Barbara County Totals,0,18,0,18,0
+784,2020-03-23,Santa Barbara County Totals,0,18,0,18,0
+783,2020-03-24,Santa Barbara County Totals,0,24,0,24,0
+782,2020-03-25,Santa Barbara County Totals,0,26,0,26,0
+781,2020-03-26,Santa Barbara County Totals,0,32,0,32,0
+780,2020-03-27,Santa Barbara County Totals,0,47,0,47,0
+779,2020-03-28,Santa Barbara County Totals,0,64,0,64,0
+778,2020-03-29,Santa Barbara County Totals,0,68,0,68,0
+777,2020-03-30,Santa Barbara County Totals,0,88,0,88,0
+776,2020-03-31,Santa Barbara County Totals,0,99,0,99,0
+775,2020-04-01,Santa Barbara County Totals,0,111,0,111,0
+774,2020-04-02,Santa Barbara County Totals,0,139,0,139,0
+773,2020-04-03,Santa Barbara County Totals,0,152,0,152,0
+772,2020-04-04,Santa Barbara County Totals,0,168,0,167,1
+771,2020-04-05,Santa Barbara County Totals,0,174,0,172,2
+770,2020-04-06,Santa Barbara County Totals,0,192,0,190,2
+769,2020-04-07,Santa Barbara County Totals,0,218,0,216,2
+768,2020-04-08,Santa Barbara County Totals,0,228,0,226,2
+767,2020-04-09,Santa Barbara County Totals,0,243,0,241,2
+766,2020-04-10,Santa Barbara County Totals,0,260,0,258,2
+765,2020-04-11,Santa Barbara County Totals,0,264,0,262,2
+764,2020-04-12,Santa Barbara County Totals,0,267,0,265,2
+763,2020-04-13,Santa Barbara County Totals,0,284,0,282,2
+762,2020-04-14,Santa Barbara County Totals,0,313,0,311,2
+761,2020-04-15,Santa Barbara County Totals,0,334,0,332,2
+760,2020-04-16,Santa Barbara County Totals,0,354,0,351,3
+759,2020-04-17,Santa Barbara County Totals,0,373,0,370,3
+758,2020-04-18,Santa Barbara County Totals,0,385,0,381,4
+757,2020-04-19,Santa Barbara County Totals,0,394,0,390,4
+756,2020-04-20,Santa Barbara County Totals,0,416,0,412,4
+755,2020-04-21,Santa Barbara County Totals,0,429,0,424,5
+754,2020-04-22,Santa Barbara County Totals,0,440,0,435,5
+753,2020-04-23,Santa Barbara County Totals,0,451,0,446,5
+752,2020-04-24,Santa Barbara County Totals,0,460,0,454,6
+751,2020-04-25,Santa Barbara County Totals,0,469,0,462,7
+750,2020-04-26,Santa Barbara County Totals,0,471,0,464,7
+749,2020-04-27,Santa Barbara County Totals,0,473,0,466,7
+748,2020-04-28,Santa Barbara County Totals,0,477,0,470,7
+747,2020-04-29,Santa Barbara County Totals,0,485,0,477,8
+746,2020-04-30,Santa Barbara County Totals,0,496,0,488,8
+745,2020-05-01,Santa Barbara County Totals,0,506,0,498,8
+744,2020-05-02,Santa Barbara County Totals,0,508,0,500,8
+743,2020-05-03,Santa Barbara County Totals,0,514,0,506,8
+742,2020-05-04,Santa Barbara County Totals,0,526,0,518,8
+741,2020-05-05,Santa Barbara County Totals,0,544,0,535,9
+740,2020-05-06,Santa Barbara County Totals,0,613,0,604,9
+739,2020-05-07,Santa Barbara County Totals,0,722,0,713,9
+738,2020-05-08,Santa Barbara County Totals,0,1032,0,1021,11
+737,2020-05-09,Santa Barbara County Totals,0,1250,0,1239,11
+736,2020-05-10,Santa Barbara County Totals,0,1308,0,1297,11
+735,2020-05-11,Santa Barbara County Totals,54,1362,0,1351,11
+734,2020-05-12,Santa Barbara County Totals,10,1371,0,1360,11
+733,2020-05-13,Santa Barbara County Totals,6,1377,0,1366,11
+732,2020-05-14,Santa Barbara County Totals,14,1387,0,1376,11
+731,2020-05-15,Santa Barbara County Totals,15,1402,0,1391,11
+730,2020-05-16,Santa Barbara County Totals,17,1418,0,1407,11
+729,2020-05-17,Santa Barbara County Totals,56,1474,0,1463,11
+728,2020-05-18,Santa Barbara County Totals,22,1496,0,1485,11
+727,2020-05-19,Santa Barbara County Totals,21,1517,0,1506,11
+718,2020-05-20,CITY OF GOLETA,0,11,6,3,2
+722,2020-05-20,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,102,87,13,2
+717,2020-05-20,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,0,77,67,9,1
+724,2020-05-20,CITY OF SANTA MARIA,2,232,175,55,2
+719,2020-05-20,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+725,2020-05-20,COMMUNITY OF ORCUTT,0,41,39,2,0
+723,2020-05-20,FEDERAL PRISON IN LOMPOC,0,970,675,293,2
+721,2020-05-20,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,10,6,4,0
+716,2020-05-20,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,24,20,4,0
+715,2020-05-20,Santa Barbara County Totals,3,1520,1118,391,11
+720,2020-05-20,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,16,14,1,1
+726,2020-05-20,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,29,23,5,1
+706,2020-05-21,CITY OF GOLETA,0,11,7,2,2
+710,2020-05-21,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,102,87,13,2
+705,2020-05-21,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,1,78,68,9,1
+712,2020-05-21,CITY OF SANTA MARIA,15,247,186,59,2
+707,2020-05-21,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+713,2020-05-21,COMMUNITY OF ORCUTT,0,41,39,2,0
+711,2020-05-21,FEDERAL PRISON IN LOMPOC,0,970,880,88,2
+709,2020-05-21,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,10,6,4,0
+704,2020-05-21,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",3,27,20,7,0
+703,2020-05-21,Santa Barbara County Totals,20,1540,1337,192,11
+708,2020-05-21,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,16,15,0,1
+714,2020-05-21,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,30,23,6,1
+694,2020-05-22,CITY OF GOLETA,0,11,7,2,2
+698,2020-05-22,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,102,88,12,2
+693,2020-05-22,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,1,79,69,9,1
+700,2020-05-22,CITY OF SANTA MARIA,8,254,191,60,3
+695,2020-05-22,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+701,2020-05-22,COMMUNITY OF ORCUTT,0,41,40,1,0
+699,2020-05-22,FEDERAL PRISON IN LOMPOC,1,971,881,88,2
+697,2020-05-22,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,10,6,4,0
+692,2020-05-22,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,20,7,0
+691,2020-05-22,Santa Barbara County Totals,12,1551,1346,193,12
+696,2020-05-22,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,17,15,1,1
+702,2020-05-22,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,31,23,7,1
+682,2020-05-26,CITY OF GOLETA,1,15,8,5,2
+686,2020-05-26,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,104,92,10,2
+681,2020-05-26,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,3,83,70,12,1
+688,2020-05-26,CITY OF SANTA MARIA,13,285,208,74,3
+683,2020-05-26,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+689,2020-05-26,COMMUNITY OF ORCUTT,2,44,40,4,0
+687,2020-05-26,FEDERAL PRISON IN LOMPOC,0,971,882,87,2
+685,2020-05-26,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,10,7,3,0
+680,2020-05-26,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,20,7,0
+679,2020-05-26,Santa Barbara County Totals,24,1604,1374,218,12
+684,2020-05-26,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,18,15,2,1
+690,2020-05-26,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",4,39,25,13,1
+670,2020-05-27,CITY OF GOLETA,0,15,10,3,2
+674,2020-05-27,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,105,94,9,2
+669,2020-05-27,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,88,72,15,1
+676,2020-05-27,CITY OF SANTA MARIA,12,297,219,75,3
+671,2020-05-27,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+677,2020-05-27,COMMUNITY OF ORCUTT,0,44,41,3,0
+675,2020-05-27,FEDERAL PRISON IN LOMPOC,0,971,883,86,2
+673,2020-05-27,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,10,7,3,0
+668,2020-05-27,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,20,7,0
+667,2020-05-27,Santa Barbara County Totals,20,1624,1396,216,12
+672,2020-05-27,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,18,15,2,1
+678,2020-05-27,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,40,28,11,1
+658,2020-05-28,CITY OF GOLETA,0,15,10,3,2
+662,2020-05-28,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,105,95,8,2
+657,2020-05-28,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,1,89,73,15,1
+664,2020-05-28,CITY OF SANTA MARIA,9,306,228,75,3
+659,2020-05-28,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+665,2020-05-28,COMMUNITY OF ORCUTT,1,45,42,3,0
+663,2020-05-28,FEDERAL PRISON IN LOMPOC,0,971,955,14,2
+661,2020-05-28,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,10,7,3,0
+656,2020-05-28,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,21,6,0
+655,2020-05-28,Santa Barbara County Totals,12,1636,1481,143,12
+660,2020-05-28,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,18,15,2,1
+666,2020-05-28,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,41,28,12,1
+646,2020-05-29,CITY OF GOLETA,0,15,10,3,2
+650,2020-05-29,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,106,96,8,2
+645,2020-05-29,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,3,92,73,18,1
+652,2020-05-29,CITY OF SANTA MARIA,8,314,236,75,3
+647,2020-05-29,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+653,2020-05-29,COMMUNITY OF ORCUTT,0,45,42,3,0
+651,2020-05-29,FEDERAL PRISON IN LOMPOC,0,971,960,9,2
+649,2020-05-29,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,11,9,2,0
+644,2020-05-29,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,21,6,0
+643,2020-05-29,Santa Barbara County Totals,13,1649,1497,140,12
+648,2020-05-29,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,17,14,2,1
+654,2020-05-29,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,42,29,12,1
+634,2020-06-01,CITY OF GOLETA,0,15,10,3,2
+638,2020-06-01,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,105,97,6,2
+633,2020-06-01,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,1,93,73,19,1
+640,2020-06-01,CITY OF SANTA MARIA,5,327,250,74,3
+635,2020-06-01,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+641,2020-06-01,COMMUNITY OF ORCUTT,1,46,42,4,0
+639,2020-06-01,FEDERAL PRISON IN LOMPOC,0,971,961,8,2
+637,2020-06-01,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,12,9,3,0
+632,2020-06-01,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,21,6,0
+631,2020-06-01,Santa Barbara County Totals,10,1669,1517,140,12
+636,2020-06-01,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,17,15,1,1
+642,2020-06-01,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,44,31,12,1
+622,2020-06-02,CITY OF GOLETA,0,15,10,3,2
+626,2020-06-02,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,105,94,8,3
+621,2020-06-02,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,2,95,80,14,1
+628,2020-06-02,CITY OF SANTA MARIA,16,343,279,61,3
+623,2020-06-02,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+629,2020-06-02,COMMUNITY OF ORCUTT,0,46,43,3,0
+627,2020-06-02,FEDERAL PRISON IN LOMPOC,8,979,962,14,3
+625,2020-06-02,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,12,10,2,0
+620,2020-06-02,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,23,4,0
+619,2020-06-02,Santa Barbara County Totals,28,1697,1559,124,14
+624,2020-06-02,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,17,15,1,1
+630,2020-06-02,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,46,35,10,1
+610,2020-06-03,CITY OF GOLETA,1,16,10,4,2
+614,2020-06-03,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,105,95,7,3
+609,2020-06-03,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,2,99,82,16,1
+616,2020-06-03,CITY OF SANTA MARIA,10,353,281,69,3
+611,2020-06-03,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+617,2020-06-03,COMMUNITY OF ORCUTT,2,49,43,6,0
+615,2020-06-03,FEDERAL PRISON IN LOMPOC,0,979,964,12,3
+613,2020-06-03,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+608,2020-06-03,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,23,4,0
+607,2020-06-03,Santa Barbara County Totals,17,1714,1566,134,14
+612,2020-06-03,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,18,15,2,1
+618,2020-06-03,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,48,36,11,1
+598,2020-06-04,CITY OF GOLETA,0,16,11,3,2
+602,2020-06-04,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,105,96,6,3
+597,2020-06-04,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,3,102,85,16,1
+604,2020-06-04,CITY OF SANTA MARIA,11,364,288,73,3
+599,2020-06-04,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+605,2020-06-04,COMMUNITY OF ORCUTT,0,49,43,6,0
+603,2020-06-04,FEDERAL PRISON IN LOMPOC,1,980,964,13,3
+601,2020-06-04,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+596,2020-06-04,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,23,4,0
+595,2020-06-04,Santa Barbara County Totals,23,1737,1581,142,14
+600,2020-06-04,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,20,16,3,1
+606,2020-06-04,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",4,52,38,13,1
+586,2020-06-05,CITY OF GOLETA,0,16,11,3,2
+590,2020-06-05,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,105,97,4,4
+585,2020-06-05,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,2,104,87,16,1
+592,2020-06-05,CITY OF SANTA MARIA,45,409,295,111,3
+587,2020-06-05,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+593,2020-06-05,COMMUNITY OF ORCUTT,0,49,43,6,0
+591,2020-06-05,FEDERAL PRISON IN LOMPOC,1,981,965,13,3
+589,2020-06-05,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+584,2020-06-05,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,23,4,0
+583,2020-06-05,Santa Barbara County Totals,50,1787,1594,178,15
+588,2020-06-05,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,20,16,3,1
+594,2020-06-05,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,54,39,14,1
+574,2020-06-08,CITY OF GOLETA,1,18,11,5,2
+578,2020-06-08,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,107,97,6,4
+573,2020-06-08,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,2,111,90,20,1
+580,2020-06-08,CITY OF SANTA MARIA,4,423,316,104,3
+575,2020-06-08,COMMUNITY OF ISLA VISTA,0,1,1,0,0
+581,2020-06-08,COMMUNITY OF ORCUTT,0,49,44,5,0
+579,2020-06-08,FEDERAL PRISON IN LOMPOC,0,984,965,16,3
+577,2020-06-08,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+572,2020-06-08,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,23,4,0
+571,2020-06-08,Santa Barbara County Totals,9,1817,1621,181,15
+576,2020-06-08,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,20,16,3,1
+582,2020-06-08,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,56,41,14,1
+562,2020-06-09,CITY OF GOLETA,0,18,11,5,2
+566,2020-06-09,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,107,97,6,4
+561,2020-06-09,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,7,118,91,26,1
+568,2020-06-09,CITY OF SANTA MARIA,20,443,320,120,3
+563,2020-06-09,COMMUNITY OF ISLA VISTA,1,2,1,1,0
+569,2020-06-09,COMMUNITY OF ORCUTT,0,49,45,4,0
+567,2020-06-09,FEDERAL PRISON IN LOMPOC,0,984,965,16,3
+565,2020-06-09,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+560,2020-06-09,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,23,4,0
+559,2020-06-09,Santa Barbara County Totals,30,1847,1627,205,15
+564,2020-06-09,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,20,16,3,1
+570,2020-06-09,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,57,41,15,1
+550,2020-06-10,CITY OF GOLETA,1,19,11,6,2
+554,2020-06-10,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,108,98,6,4
+549,2020-06-10,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,1,119,92,25,2
+556,2020-06-10,CITY OF SANTA MARIA,12,455,324,128,3
+551,2020-06-10,COMMUNITY OF ISLA VISTA,0,2,1,1,0
+557,2020-06-10,COMMUNITY OF ORCUTT,1,50,46,4,0
+555,2020-06-10,FEDERAL PRISON IN LOMPOC,0,984,966,15,3
+553,2020-06-10,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+548,2020-06-10,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,22,5,0
+547,2020-06-10,Santa Barbara County Totals,17,1864,1635,213,16
+552,2020-06-10,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,20,17,2,1
+558,2020-06-10,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,58,41,16,1
+538,2020-06-11,CITY OF GOLETA,0,19,11,6,2
+542,2020-06-11,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,3,111,98,9,4
+537,2020-06-11,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,7,126,92,32,2
+544,2020-06-11,CITY OF SANTA MARIA,28,483,331,149,3
+539,2020-06-11,COMMUNITY OF ISLA VISTA,0,2,1,1,0
+545,2020-06-11,COMMUNITY OF ORCUTT,5,55,46,9,0
+543,2020-06-11,FEDERAL PRISON IN LOMPOC,0,984,966,15,3
+541,2020-06-11,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+536,2020-06-11,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,27,22,5,0
+535,2020-06-11,Santa Barbara County Totals,46,1910,1643,251,16
+540,2020-06-11,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,20,17,2,1
+546,2020-06-11,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,59,42,16,1
+526,2020-06-12,CITY OF GOLETA,1,20,11,7,2
+530,2020-06-12,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,2,113,99,10,4
+525,2020-06-12,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,131,95,34,2
+532,2020-06-12,CITY OF SANTA MARIA,45,528,346,177,5
+527,2020-06-12,COMMUNITY OF ISLA VISTA,1,3,1,2,0
+533,2020-06-12,COMMUNITY OF ORCUTT,1,56,46,10,0
+531,2020-06-12,FEDERAL PRISON IN LOMPOC,1,985,966,16,3
+529,2020-06-12,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+524,2020-06-12,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,29,22,7,0
+523,2020-06-12,Santa Barbara County Totals,61,1971,1664,289,18
+528,2020-06-12,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,20,16,3,1
+534,2020-06-12,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,61,44,16,1
+514,2020-06-15,CITY OF GOLETA,0,23,12,9,2
+518,2020-06-15,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,115,99,12,4
+513,2020-06-15,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,2,138,102,34,2
+520,2020-06-15,CITY OF SANTA MARIA,9,596,389,202,5
+515,2020-06-15,COMMUNITY OF ISLA VISTA,0,4,2,2,0
+521,2020-06-15,COMMUNITY OF ORCUTT,0,59,48,11,0
+519,2020-06-15,FEDERAL PRISON IN LOMPOC,0,986,976,7,3
+517,2020-06-15,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+512,2020-06-15,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,31,22,9,0
+511,2020-06-15,Santa Barbara County Totals,13,2069,1737,314,18
+516,2020-06-15,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,22,18,3,1
+522,2020-06-15,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,67,51,15,1
+502,2020-06-16,CITY OF GOLETA,1,24,14,8,2
+506,2020-06-16,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,116,99,13,4
+501,2020-06-16,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,143,105,36,2
+508,2020-06-16,CITY OF SANTA MARIA,33,629,418,202,9
+503,2020-06-16,COMMUNITY OF ISLA VISTA,0,4,3,1,0
+509,2020-06-16,COMMUNITY OF ORCUTT,0,59,48,11,0
+507,2020-06-16,FEDERAL PRISON IN LOMPOC,1,987,977,7,3
+505,2020-06-16,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+500,2020-06-16,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",3,34,22,12,0
+499,2020-06-16,Santa Barbara County Totals,46,2115,1777,316,22
+504,2020-06-16,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,22,18,3,1
+510,2020-06-16,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,69,54,14,1
+490,2020-06-17,CITY OF GOLETA,3,27,16,9,2
+494,2020-06-17,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,0,116,101,11,4
+489,2020-06-17,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,20,163,105,56,2
+496,2020-06-17,CITY OF SANTA MARIA,27,657,439,209,9
+491,2020-06-17,COMMUNITY OF ISLA VISTA,0,4,3,1,0
+497,2020-06-17,COMMUNITY OF ORCUTT,1,60,49,11,0
+495,2020-06-17,FEDERAL PRISON IN LOMPOC,1,988,978,7,3
+493,2020-06-17,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,13,12,1,0
+488,2020-06-17,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,35,22,13,0
+487,2020-06-17,Santa Barbara County Totals,56,2170,1807,341,22
+492,2020-06-17,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,23,18,4,1
+498,2020-06-17,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",0,68,53,14,1
+478,2020-06-18,CITY OF GOLETA,3,30,16,12,2
+482,2020-06-18,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,2,118,102,12,4
+477,2020-06-18,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,174,109,63,2
+484,2020-06-18,CITY OF SANTA MARIA,55,702,457,236,9
+479,2020-06-18,COMMUNITY OF ISLA VISTA,2,6,4,2,0
+485,2020-06-18,COMMUNITY OF ORCUTT,5,65,49,16,0
+483,2020-06-18,FEDERAL PRISON IN LOMPOC,1,989,978,8,3
+481,2020-06-18,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,14,12,2,0
+476,2020-06-18,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,36,23,13,0
+475,2020-06-18,Santa Barbara County Totals,82,2253,1836,395,22
+480,2020-06-18,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,24,18,5,1
+486,2020-06-18,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,70,57,12,1
+466,2020-06-19,CITY OF GOLETA,1,31,18,11,2
+470,2020-06-19,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,119,103,12,4
+465,2020-06-19,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,185,111,72,2
+472,2020-06-19,CITY OF SANTA MARIA,44,746,475,262,9
+467,2020-06-19,COMMUNITY OF ISLA VISTA,0,6,4,2,0
+473,2020-06-19,COMMUNITY OF ORCUTT,0,65,49,16,0
+471,2020-06-19,FEDERAL PRISON IN LOMPOC,0,989,977,9,3
+469,2020-06-19,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",2,16,12,4,0
+464,2020-06-19,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,36,24,12,0
+463,2020-06-19,Santa Barbara County Totals,67,2319,1862,435,22
+468,2020-06-19,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,24,18,5,1
+474,2020-06-19,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",6,76,59,16,1
+454,2020-06-21,CITY OF GOLETA,0,33,18,13,2
+458,2020-06-21,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,121,106,11,4
+453,2020-06-21,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,8,200,118,80,2
+460,2020-06-21,CITY OF SANTA MARIA,43,809,519,278,12
+455,2020-06-21,COMMUNITY OF ISLA VISTA,0,6,4,2,0
+461,2020-06-21,COMMUNITY OF ORCUTT,0,67,50,17,0
+459,2020-06-21,FEDERAL PRISON IN LOMPOC,0,989,978,8,3
+457,2020-06-21,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,16,12,4,0
+452,2020-06-21,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,39,26,13,0
+451,2020-06-21,Santa Barbara County Totals,62,2421,1924,472,25
+456,2020-06-21,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,24,18,5,1
+462,2020-06-21,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,87,61,25,1
+442,2020-06-22,CITY OF GOLETA,3,36,18,16,2
+446,2020-06-22,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,2,124,107,13,4
+441,2020-06-22,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,205,126,77,2
+448,2020-06-22,CITY OF SANTA MARIA,8,816,538,264,14
+443,2020-06-22,COMMUNITY OF ISLA VISTA,1,7,4,3,0
+449,2020-06-22,COMMUNITY OF ORCUTT,0,67,51,16,0
+447,2020-06-22,FEDERAL PRISON IN LOMPOC,1,990,978,9,3
+445,2020-06-22,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,16,12,4,0
+440,2020-06-22,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,40,27,13,0
+439,2020-06-22,Santa Barbara County Totals,26,2446,1956,463,27
+444,2020-06-22,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,27,19,7,1
+450,2020-06-22,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,87,61,25,1
+430,2020-06-23,CITY OF GOLETA,2,38,18,18,2
+434,2020-06-23,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,5,129,107,18,4
+429,2020-06-23,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,10,215,138,75,2
+436,2020-06-23,CITY OF SANTA MARIA,34,850,573,263,14
+431,2020-06-23,COMMUNITY OF ISLA VISTA,1,8,4,4,0
+437,2020-06-23,COMMUNITY OF ORCUTT,0,67,54,13,0
+435,2020-06-23,FEDERAL PRISON IN LOMPOC,0,990,978,9,3
+433,2020-06-23,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,17,12,5,0
+428,2020-06-23,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",4,44,29,15,0
+427,2020-06-23,Santa Barbara County Totals,63,2509,2010,472,27
+432,2020-06-23,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,29,20,8,1
+438,2020-06-23,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",4,91,62,28,1
+418,2020-06-24,CITY OF GOLETA,4,42,20,20,2
+422,2020-06-24,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,5,134,108,22,4
+417,2020-06-24,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,18,234,146,86,2
+424,2020-06-24,CITY OF SANTA MARIA,36,885,600,271,14
+419,2020-06-24,COMMUNITY OF ISLA VISTA,1,9,5,4,0
+425,2020-06-24,COMMUNITY OF ORCUTT,0,67,56,11,0
+423,2020-06-24,FEDERAL PRISON IN LOMPOC,2,992,980,9,3
+421,2020-06-24,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,17,12,5,0
+416,2020-06-24,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,44,29,15,0
+415,2020-06-24,Santa Barbara County Totals,81,2590,2057,506,27
+420,2020-06-24,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,31,20,10,1
+426,2020-06-24,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,98,64,33,1
+406,2020-06-25,CITY OF GOLETA,0,42,22,18,2
+410,2020-06-25,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,135,108,23,4
+405,2020-06-25,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,3,237,159,75,3
+412,2020-06-25,CITY OF SANTA MARIA,27,913,625,274,14
+407,2020-06-25,COMMUNITY OF ISLA VISTA,1,10,6,4,0
+413,2020-06-25,COMMUNITY OF ORCUTT,3,70,57,13,0
+411,2020-06-25,FEDERAL PRISON IN LOMPOC,0,992,980,9,3
+409,2020-06-25,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,18,13,5,0
+404,2020-06-25,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,44,31,13,0
+403,2020-06-25,Santa Barbara County Totals,42,2631,2106,497,28
+408,2020-06-25,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,33,20,12,1
+414,2020-06-25,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,97,66,30,1
+394,2020-06-26,CITY OF GOLETA,1,43,24,17,2
+398,2020-06-26,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,2,137,109,24,4
+393,2020-06-26,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,14,251,167,81,3
+400,2020-06-26,CITY OF SANTA MARIA,41,954,671,269,14
+395,2020-06-26,COMMUNITY OF ISLA VISTA,4,14,7,7,0
+401,2020-06-26,COMMUNITY OF ORCUTT,0,70,57,13,0
+399,2020-06-26,FEDERAL PRISON IN LOMPOC,1,993,982,8,3
+397,2020-06-26,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,19,13,6,0
+392,2020-06-26,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,45,34,11,0
+391,2020-06-26,Santa Barbara County Totals,81,2712,2172,512,28
+396,2020-06-26,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,35,20,14,1
+402,2020-06-26,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",8,105,69,35,1
+382,2020-06-27,CITY OF GOLETA,0,43,26,15,2
+386,2020-06-27,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,3,140,110,26,4
+381,2020-06-27,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,256,169,84,3
+388,2020-06-27,CITY OF SANTA MARIA,24,978,681,283,14
+383,2020-06-27,COMMUNITY OF ISLA VISTA,0,14,6,8,0
+389,2020-06-27,COMMUNITY OF ORCUTT,0,70,57,13,0
+387,2020-06-27,FEDERAL PRISON IN LOMPOC,0,993,982,8,3
+385,2020-06-27,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,20,14,6,0
+380,2020-06-27,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,45,34,11,0
+379,2020-06-27,Santa Barbara County Totals,35,2746,2188,530,28
+384,2020-06-27,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,36,20,15,1
+390,2020-06-27,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",0,104,70,33,1
+370,2020-06-28,CITY OF GOLETA,4,47,30,15,2
+374,2020-06-28,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,4,144,115,25,4
+369,2020-06-28,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,267,174,90,3
+376,2020-06-28,CITY OF SANTA MARIA,29,1007,715,278,14
+371,2020-06-28,COMMUNITY OF ISLA VISTA,1,15,7,8,0
+377,2020-06-28,COMMUNITY OF ORCUTT,1,71,58,13,0
+375,2020-06-28,FEDERAL PRISON IN LOMPOC,0,993,982,8,3
+373,2020-06-28,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,20,15,5,0
+368,2020-06-28,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,46,35,11,0
+367,2020-06-28,Santa Barbara County Totals,54,2800,2251,521,28
+372,2020-06-28,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,38,22,15,1
+378,2020-06-28,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",0,104,75,28,1
+358,2020-06-29,CITY OF GOLETA,7,54,30,22,2
+362,2020-06-29,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,2,146,118,24,4
+357,2020-06-29,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,17,284,181,100,3
+364,2020-06-29,CITY OF SANTA MARIA,48,1057,742,300,15
+359,2020-06-29,COMMUNITY OF ISLA VISTA,0,15,8,7,0
+365,2020-06-29,COMMUNITY OF ORCUTT,3,74,58,16,0
+363,2020-06-29,FEDERAL PRISON IN LOMPOC,0,993,982,8,3
+361,2020-06-29,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,21,16,5,0
+356,2020-06-29,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",5,51,35,16,0
+355,2020-06-29,Santa Barbara County Totals,96,2896,2292,575,29
+360,2020-06-29,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,41,23,17,1
+366,2020-06-29,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",4,107,77,29,1
+354,2020-07-01,Santa Barbara County Totals,268,3164,0,3135,29
+345,2020-07-02,CITY OF GOLETA,2,66,50,14,2
+349,2020-07-02,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,5,161,142,15,4
+344,2020-07-02,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,18,334,273,58,3
+351,2020-07-02,CITY OF SANTA MARIA,69,1275,1041,219,15
+346,2020-07-02,COMMUNITY OF ISLA VISTA,0,17,12,5,0
+352,2020-07-02,COMMUNITY OF ORCUTT,3,81,71,10,0
+350,2020-07-02,FEDERAL PRISON IN LOMPOC,0,994,991,0,3
+348,2020-07-02,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,21,20,1,0
+343,2020-07-02,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,58,48,10,0
+342,2020-07-02,Santa Barbara County Totals,111,3261,2858,374,29
+347,2020-07-02,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,47,40,6,1
+353,2020-07-02,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",3,119,106,12,1
+331,2020-07-03,CITY OF GOLETA,1,67,52,13,2
+335,2020-07-03,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,3,163,145,14,4
+330,2020-07-03,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,14,347,281,63,3
+337,2020-07-03,CITY OF SANTA MARIA,18,1292,1084,193,15
+332,2020-07-03,COMMUNITY OF ISLA VISTA,1,18,13,5,0
+338,2020-07-03,COMMUNITY OF ORCUTT,3,84,75,9,0
+336,2020-07-03,FEDERAL PRISON IN LOMPOC,0,994,991,0,3
+340,2020-07-03,Out of County,0,0,0,0,0
+341,2020-07-03,Pending,3,91,76,15,0
+334,2020-07-03,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,21,19,2,0
+329,2020-07-03,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,59,50,9,0
+328,2020-07-03,Santa Barbara County Totals,45,3302,2933,340,29
+333,2020-07-03,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,47,40,6,1
+339,2020-07-03,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",0,119,107,11,1
+317,2020-07-04,CITY OF GOLETA,1,68,54,12,2
+321,2020-07-04,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,9,172,154,14,4
+316,2020-07-04,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,14,360,292,65,3
+323,2020-07-04,CITY OF SANTA MARIA,57,1350,1136,199,15
+318,2020-07-04,COMMUNITY OF ISLA VISTA,0,18,17,1,0
+324,2020-07-04,COMMUNITY OF ORCUTT,2,86,75,11,0
+322,2020-07-04,FEDERAL PRISON IN LOMPOC,0,994,991,0,3
+326,2020-07-04,Out of County,0,0,0,0,0
+327,2020-07-04,Pending,3,94,79,15,0
+320,2020-07-04,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",4,25,22,3,0
+315,2020-07-04,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",5,64,51,13,0
+314,2020-07-04,Santa Barbara County Totals,106,3408,3023,356,29
+319,2020-07-04,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,7,54,41,12,1
+325,2020-07-04,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",4,123,111,11,1
+303,2020-07-05,CITY OF GOLETA,0,68,59,7,2
+307,2020-07-05,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,5,177,159,14,4
+302,2020-07-05,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,8,368,308,57,3
+309,2020-07-05,CITY OF SANTA MARIA,42,1392,1214,163,15
+304,2020-07-05,COMMUNITY OF ISLA VISTA,2,20,19,1,0
+310,2020-07-05,COMMUNITY OF ORCUTT,7,93,82,11,0
+308,2020-07-05,FEDERAL PRISON IN LOMPOC,0,994,991,0,3
+312,2020-07-05,Out of County,0,0,0,0,0
+313,2020-07-05,Pending,4,98,84,14,0
+306,2020-07-05,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,25,23,2,0
+301,2020-07-05,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,64,53,11,0
+300,2020-07-05,Santa Barbara County Totals,76,3484,3150,305,29
+305,2020-07-05,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,55,42,12,1
+311,2020-07-05,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,130,116,13,1
+291,2020-07-06,CITY OF GOLETA,2,70,61,7,2
+295,2020-07-06,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,11,188,169,15,4
+290,2020-07-06,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,22,390,328,59,3
+297,2020-07-06,CITY OF SANTA MARIA,97,1489,1259,215,15
+292,2020-07-06,COMMUNITY OF ISLA VISTA,6,26,21,5,0
+298,2020-07-06,COMMUNITY OF ORCUTT,11,104,84,20,0
+296,2020-07-06,FEDERAL PRISON IN LOMPOC,0,994,991,0,3
+294,2020-07-06,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",3,28,23,5,0
+289,2020-07-06,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",6,70,57,13,0
+288,2020-07-06,Santa Barbara County Totals,171,3655,3237,389,29
+293,2020-07-06,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,56,43,12,1
+299,2020-07-06,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,137,119,17,1
+279,2020-07-07,CITY OF GOLETA,8,77,70,5,2
+283,2020-07-07,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,9,197,166,27,4
+278,2020-07-07,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,27,418,348,67,3
+285,2020-07-07,CITY OF SANTA MARIA,26,1515,1258,241,16
+280,2020-07-07,COMMUNITY OF ISLA VISTA,0,26,18,8,0
+286,2020-07-07,COMMUNITY OF ORCUTT,4,108,88,20,0
+284,2020-07-07,FEDERAL PRISON IN LOMPOC,0,994,991,0,3
+282,2020-07-07,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,28,21,7,0
+277,2020-07-07,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,72,58,14,0
+276,2020-07-07,Santa Barbara County Totals,87,3742,3280,432,30
+281,2020-07-07,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,58,45,12,1
+287,2020-07-07,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,139,122,16,1
+267,2020-07-08,CITY OF GOLETA,4,79,67,10,2
+271,2020-07-08,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,5,201,168,29,4
+266,2020-07-08,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,424,342,79,3
+273,2020-07-08,CITY OF SANTA MARIA,73,1572,1331,225,16
+268,2020-07-08,COMMUNITY OF ISLA VISTA,0,26,20,6,0
+274,2020-07-08,COMMUNITY OF ORCUTT,4,111,93,18,0
+272,2020-07-08,FEDERAL PRISON IN LOMPOC,0,984,981,0,3
+270,2020-07-08,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,27,20,7,0
+265,2020-07-08,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,72,57,15,0
+264,2020-07-08,Santa Barbara County Totals,121,3808,3335,444,29
+269,2020-07-08,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,58,46,11,1
+275,2020-07-08,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",9,147,127,20,0
+255,2020-07-09,CITY OF GOLETA,3,82,68,12,2
+259,2020-07-09,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,6,206,178,24,4
+254,2020-07-09,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,13,437,382,52,3
+261,2020-07-09,CITY OF SANTA MARIA,33,1601,1397,188,16
+256,2020-07-09,COMMUNITY OF ISLA VISTA,0,26,23,3,0
+262,2020-07-09,COMMUNITY OF ORCUTT,0,111,95,16,0
+260,2020-07-09,FEDERAL PRISON IN LOMPOC,0,998,994,1,3
+258,2020-07-09,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",3,30,21,9,0
+253,2020-07-09,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,72,60,12,0
+252,2020-07-09,Santa Barbara County Totals,67,3868,3479,360,29
+257,2020-07-09,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,59,52,6,1
+263,2020-07-09,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",3,150,136,14,0
+243,2020-07-10,CITY OF GOLETA,0,82,67,13,2
+247,2020-07-10,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,11,216,190,22,4
+242,2020-07-10,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,18,451,391,57,3
+249,2020-07-10,CITY OF SANTA MARIA,31,1628,1439,171,18
+244,2020-07-10,COMMUNITY OF ISLA VISTA,1,27,21,6,0
+250,2020-07-10,COMMUNITY OF ORCUTT,2,113,102,11,0
+248,2020-07-10,FEDERAL PRISON IN LOMPOC,0,998,994,1,3
+246,2020-07-10,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",2,32,24,8,0
+241,2020-07-10,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,73,65,8,0
+240,2020-07-10,Santa Barbara County Totals,75,3931,3555,345,31
+245,2020-07-10,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,61,53,7,1
+251,2020-07-10,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,151,134,17,0
+229,2020-07-11,CITY OF GOLETA,1,83,69,12,2
+233,2020-07-11,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,8,224,191,29,4
+228,2020-07-11,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,462,407,52,3
+235,2020-07-11,CITY OF SANTA MARIA,70,1698,1504,176,18
+230,2020-07-11,COMMUNITY OF ISLA VISTA,0,27,22,5,0
+236,2020-07-11,COMMUNITY OF ORCUTT,8,121,109,12,0
+234,2020-07-11,FEDERAL PRISON IN LOMPOC,0,998,994,1,3
+238,2020-07-11,Out of County,0,0,0,0,0
+239,2020-07-11,Pending,7,106,86,20,0
+232,2020-07-11,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",2,34,25,9,0
+227,2020-07-11,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",0,73,65,8,0
+226,2020-07-11,Santa Barbara County Totals,120,4051,3678,342,31
+231,2020-07-11,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,64,58,5,1
+237,2020-07-11,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",10,161,148,13,0
+215,2020-07-12,CITY OF GOLETA,1,84,72,10,2
+219,2020-07-12,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,225,192,29,4
+214,2020-07-12,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,467,415,49,3
+221,2020-07-12,CITY OF SANTA MARIA,18,1716,1529,169,18
+216,2020-07-12,COMMUNITY OF ISLA VISTA,0,27,22,5,0
+222,2020-07-12,COMMUNITY OF ORCUTT,0,121,110,11,0
+220,2020-07-12,FEDERAL PRISON IN LOMPOC,0,998,994,1,3
+224,2020-07-12,Out of County,0,0,0,0,0
+225,2020-07-12,Pending,2,108,88,20,0
+218,2020-07-12,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,34,25,9,0
+213,2020-07-12,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",3,76,68,8,0
+212,2020-07-12,Santa Barbara County Totals,33,4084,3723,330,31
+217,2020-07-12,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,66,59,6,1
+223,2020-07-12,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,162,149,13,0
+203,2020-07-13,CITY OF GOLETA,1,85,71,12,2
+207,2020-07-13,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,1,226,197,25,4
+202,2020-07-13,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,4,471,417,51,3
+209,2020-07-13,CITY OF SANTA MARIA,38,1754,1570,166,18
+204,2020-07-13,COMMUNITY OF ISLA VISTA,1,28,24,4,0
+210,2020-07-13,COMMUNITY OF ORCUTT,2,123,108,15,0
+208,2020-07-13,FEDERAL PRISON IN LOMPOC,0,998,994,1,3
+206,2020-07-13,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,34,27,7,0
+201,2020-07-13,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,77,69,8,0
+200,2020-07-13,Santa Barbara County Totals,56,4140,3780,329,31
+205,2020-07-13,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,68,61,6,1
+211,2020-07-13,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",3,165,151,14,0
+191,2020-07-14,CITY OF GOLETA,5,90,78,10,2
+195,2020-07-14,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,15,242,209,29,4
+190,2020-07-14,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,15,490,453,34,3
+197,2020-07-14,CITY OF SANTA MARIA,113,1869,1632,219,18
+192,2020-07-14,COMMUNITY OF ISLA VISTA,0,28,28,0,0
+198,2020-07-14,COMMUNITY OF ORCUTT,8,131,118,13,0
+196,2020-07-14,FEDERAL PRISON IN LOMPOC,0,998,995,0,3
+194,2020-07-14,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",5,39,31,8,0
+189,2020-07-14,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,79,75,4,0
+188,2020-07-14,Santa Barbara County Totals,184,4323,3921,371,31
+193,2020-07-14,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,69,61,7,1
+199,2020-07-14,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,171,150,21,0
+179,2020-07-15,CITY OF GOLETA,2,93,85,6,2
+183,2020-07-15,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,6,252,223,25,4
+178,2020-07-15,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,10,500,456,41,3
+185,2020-07-15,CITY OF SANTA MARIA,47,1924,1714,192,18
+180,2020-07-15,COMMUNITY OF ISLA VISTA,0,28,26,2,0
+186,2020-07-15,COMMUNITY OF ORCUTT,3,134,123,11,0
+184,2020-07-15,FEDERAL PRISON IN LOMPOC,2,1000,997,0,3
+182,2020-07-15,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",4,43,35,8,0
+177,2020-07-15,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,81,76,5,0
+176,2020-07-15,Santa Barbara County Totals,89,4412,4046,334,32
+181,2020-07-15,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,69,60,8,1
+187,2020-07-15,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,172,157,15,0
+167,2020-07-16,CITY OF GOLETA,5,98,89,7,2
+171,2020-07-16,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,19,271,235,32,4
+166,2020-07-16,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,44,544,491,50,3
+173,2020-07-16,CITY OF SANTA MARIA,112,2036,1792,226,18
+168,2020-07-16,COMMUNITY OF ISLA VISTA,1,29,27,2,0
+174,2020-07-16,COMMUNITY OF ORCUTT,4,138,123,15,0
+172,2020-07-16,FEDERAL PRISON IN LOMPOC,1,1001,995,3,3
+170,2020-07-16,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",6,49,37,12,0
+165,2020-07-16,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",4,85,80,5,0
+164,2020-07-16,Santa Barbara County Totals,224,4635,4189,414,32
+169,2020-07-16,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,5,74,66,7,1
+175,2020-07-16,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",8,180,163,17,0
+155,2020-07-17,CITY OF GOLETA,4,101,89,10,2
+159,2020-07-17,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,18,288,241,43,4
+154,2020-07-17,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,19,562,509,50,3
+161,2020-07-17,CITY OF SANTA MARIA,69,2099,1862,219,18
+156,2020-07-17,COMMUNITY OF ISLA VISTA,0,29,28,1,0
+162,2020-07-17,COMMUNITY OF ORCUTT,5,143,131,12,0
+160,2020-07-17,FEDERAL PRISON IN LOMPOC,6,1007,997,7,3
+158,2020-07-17,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",2,51,41,10,0
+153,2020-07-17,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",3,88,81,7,0
+152,2020-07-17,Santa Barbara County Totals,137,4759,4326,401,32
+157,2020-07-17,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,77,71,5,1
+163,2020-07-17,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",5,185,173,12,0
+141,2020-07-18,CITY OF GOLETA,5,106,95,9,2
+145,2020-07-18,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,19,307,264,39,4
+140,2020-07-18,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,21,580,545,32,3
+147,2020-07-18,CITY OF SANTA MARIA,67,2161,1953,190,18
+142,2020-07-18,COMMUNITY OF ISLA VISTA,2,31,30,1,0
+148,2020-07-18,COMMUNITY OF ORCUTT,5,148,131,17,0
+146,2020-07-18,FEDERAL PRISON IN LOMPOC,0,1007,998,6,3
+150,2020-07-18,Out of County,0,0,0,-1,1
+151,2020-07-18,Pending,11,140,118,22,0
+144,2020-07-18,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",3,54,47,7,0
+139,2020-07-18,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",6,93,84,9,0
+138,2020-07-18,Santa Barbara County Totals,155,4904,4515,357,32
+143,2020-07-18,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,80,74,5,1
+149,2020-07-18,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",13,197,176,21,0
+127,2020-07-19,CITY OF GOLETA,0,106,98,6,2
+131,2020-07-19,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,6,312,281,27,4
+126,2020-07-19,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,3,582,545,34,3
+133,2020-07-19,CITY OF SANTA MARIA,3,2156,1987,151,18
+128,2020-07-19,COMMUNITY OF ISLA VISTA,0,31,29,2,0
+134,2020-07-19,COMMUNITY OF ORCUTT,0,148,137,11,0
+132,2020-07-19,FEDERAL PRISON IN LOMPOC,0,1007,1000,4,3
+136,2020-07-19,Out of County,0,0,0,-1,1
+137,2020-07-19,Pending,1,140,118,22,0
+130,2020-07-19,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,54,50,4,0
+125,2020-07-19,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,94,84,10,0
+124,2020-07-19,Santa Barbara County Totals,16,4908,4584,292,32
+129,2020-07-19,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,81,72,8,1
+135,2020-07-19,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",0,197,183,14,0
+115,2020-07-20,CITY OF GOLETA,5,111,100,9,2
+119,2020-07-20,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,9,321,282,35,4
+114,2020-07-20,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,593,552,38,3
+121,2020-07-20,CITY OF SANTA MARIA,43,2199,2059,122,18
+116,2020-07-20,COMMUNITY OF ISLA VISTA,0,31,31,0,0
+122,2020-07-20,COMMUNITY OF ORCUTT,3,151,140,11,0
+120,2020-07-20,FEDERAL PRISON IN LOMPOC,2,1009,999,7,3
+118,2020-07-20,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,54,52,2,0
+113,2020-07-20,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,96,83,13,0
+112,2020-07-20,Santa Barbara County Totals,85,4991,4685,274,32
+117,2020-07-20,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,84,77,6,1
+123,2020-07-20,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",2,199,184,15,0
+103,2020-07-21,CITY OF GOLETA,3,114,103,9,2
+107,2020-07-21,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,12,333,296,33,4
+102,2020-07-21,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,19,611,573,35,3
+109,2020-07-21,CITY OF SANTA MARIA,66,2265,2112,135,18
+104,2020-07-21,COMMUNITY OF ISLA VISTA,3,34,32,2,0
+110,2020-07-21,COMMUNITY OF ORCUTT,6,157,144,13,0
+108,2020-07-21,FEDERAL PRISON IN LOMPOC,1,1010,1002,5,3
+106,2020-07-21,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",4,58,51,7,0
+101,2020-07-21,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",4,100,87,13,0
+100,2020-07-21,Santa Barbara County Totals,135,5124,4797,295,32
+105,2020-07-21,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,86,73,12,1
+111,2020-07-21,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,205,185,20,0
+91,2020-07-22,CITY OF GOLETA,4,118,105,11,2
+95,2020-07-22,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,21,354,308,42,4
+90,2020-07-22,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,32,644,605,36,3
+97,2020-07-22,CITY OF SANTA MARIA,63,2327,2143,166,18
+92,2020-07-22,COMMUNITY OF ISLA VISTA,1,35,31,4,0
+98,2020-07-22,COMMUNITY OF ORCUTT,6,163,150,13,0
+96,2020-07-22,FEDERAL PRISON IN LOMPOC,0,1010,999,8,3
+94,2020-07-22,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",1,59,51,8,0
+89,2020-07-22,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",4,104,94,10,0
+88,2020-07-22,Santa Barbara County Totals,160,5282,4900,350,32
+93,2020-07-22,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,6,92,78,13,1
+99,2020-07-22,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,212,196,16,0
+79,2020-07-23,CITY OF GOLETA,0,118,101,15,2
+83,2020-07-23,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,16,370,325,41,4
+78,2020-07-23,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,11,655,601,51,3
+85,2020-07-23,CITY OF SANTA MARIA,93,2420,2235,167,18
+80,2020-07-23,COMMUNITY OF ISLA VISTA,2,37,34,3,0
+86,2020-07-23,COMMUNITY OF ORCUTT,9,172,160,12,0
+84,2020-07-23,FEDERAL PRISON IN LOMPOC,0,1010,1002,5,3
+82,2020-07-23,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",2,61,54,7,0
+77,2020-07-23,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",5,109,94,15,0
+76,2020-07-23,Santa Barbara County Totals,162,5444,5051,361,32
+81,2020-07-23,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,95,87,7,1
+87,2020-07-23,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",10,222,206,16,0
+67,2020-07-24,CITY OF GOLETA,3,121,113,6,2
+71,2020-07-24,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,12,382,339,39,4
+66,2020-07-24,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,12,667,618,46,3
+73,2020-07-24,CITY OF SANTA MARIA,77,2496,2296,182,18
+68,2020-07-24,COMMUNITY OF ISLA VISTA,3,40,35,5,0
+74,2020-07-24,COMMUNITY OF ORCUTT,1,173,162,11,0
+72,2020-07-24,FEDERAL PRISON IN LOMPOC,1,1011,1001,7,3
+70,2020-07-24,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",2,63,56,7,0
+65,2020-07-24,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",3,112,100,12,0
+64,2020-07-24,Santa Barbara County Totals,133,5576,5175,369,32
+69,2020-07-24,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,94,87,6,1
+75,2020-07-24,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,229,214,15,0
+53,2020-07-25,CITY OF GOLETA,6,127,114,11,2
+57,2020-07-25,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,18,400,359,37,4
+52,2020-07-25,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,14,681,637,41,3
+59,2020-07-25,CITY OF SANTA MARIA,79,2575,2371,186,18
+54,2020-07-25,COMMUNITY OF ISLA VISTA,0,40,38,2,0
+60,2020-07-25,COMMUNITY OF ORCUTT,12,185,173,12,0
+58,2020-07-25,FEDERAL PRISON IN LOMPOC,0,1011,1008,0,3
+62,2020-07-25,Out of County,0,0,0,-1,1
+63,2020-07-25,Pending,6,194,172,22,0
+56,2020-07-25,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,63,60,3,0
+51,2020-07-25,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",2,114,101,13,0
+50,2020-07-25,Santa Barbara County Totals,142,5718,5337,349,32
+55,2020-07-25,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,0,94,85,8,1
+61,2020-07-25,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",5,234,219,15,0
+39,2020-07-26,CITY OF GOLETA,3,130,118,10,2
+43,2020-07-26,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,3,403,377,22,4
+38,2020-07-26,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,20,701,659,39,3
+45,2020-07-26,CITY OF SANTA MARIA,3,2578,2414,146,18
+40,2020-07-26,COMMUNITY OF ISLA VISTA,0,40,38,2,0
+46,2020-07-26,COMMUNITY OF ORCUTT,0,185,178,7,0
+44,2020-07-26,FEDERAL PRISON IN LOMPOC,0,1011,1008,0,3
+48,2020-07-26,Out of County,0,0,0,-1,1
+49,2020-07-26,Pending,5,200,178,22,0
+42,2020-07-26,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",3,66,62,4,0
+37,2020-07-26,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",1,115,105,10,0
+36,2020-07-26,Santa Barbara County Totals,41,5759,5447,280,32
+41,2020-07-26,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,2,96,88,7,1
+47,2020-07-26,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",1,234,222,12,0
+27,2020-07-27,CITY OF GOLETA,1,131,121,8,2
+31,2020-07-27,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,11,415,380,31,4
+26,2020-07-27,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,5,706,667,36,3
+33,2020-07-27,CITY OF SANTA MARIA,38,2622,2441,163,18
+28,2020-07-27,COMMUNITY OF ISLA VISTA,1,41,39,2,0
+34,2020-07-27,COMMUNITY OF ORCUTT,1,187,179,8,0
+32,2020-07-27,FEDERAL PRISON IN LOMPOC,0,1011,1008,0,3
+30,2020-07-27,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,66,61,5,0
+25,2020-07-27,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",5,120,106,14,0
+24,2020-07-27,Santa Barbara County Totals,77,5836,5496,308,32
+29,2020-07-27,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,97,91,5,1
+35,2020-07-27,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",3,237,224,13,0
+15,2020-07-28,CITY OF GOLETA,0,131,122,7,2
+19,2020-07-28,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,9,425,386,35,4
+14,2020-07-28,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,22,734,688,43,3
+21,2020-07-28,CITY OF SANTA MARIA,41,2677,2492,167,18
+16,2020-07-28,COMMUNITY OF ISLA VISTA,0,41,39,2,0
+22,2020-07-28,COMMUNITY OF ORCUTT,4,192,179,13,0
+20,2020-07-28,FEDERAL PRISON IN LOMPOC,0,1011,1008,0,3
+18,2020-07-28,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,67,63,4,0
+13,2020-07-28,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",5,125,109,16,0
+12,2020-07-28,Santa Barbara County Totals,98,5931,5566,333,32
+17,2020-07-28,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,1,99,93,5,1
+23,2020-07-28,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",7,246,228,18,0
+3,2020-07-29,CITY OF GOLETA,3,134,125,7,2
+7,2020-07-29,CITY OF LOMPOC and the communities of Mission Hills and Vandenberg Village,6,431,393,34,4
+2,2020-07-29,CITY OF SANTA BARBARA and the unincorporated area of Mission Canyon,20,754,695,56,3
+9,2020-07-29,CITY OF SANTA MARIA,30,2709,2533,158,18
+4,2020-07-29,COMMUNITY OF ISLA VISTA,4,45,39,6,0
+10,2020-07-29,COMMUNITY OF ORCUTT,3,195,183,12,0
+8,2020-07-29,FEDERAL PRISON IN LOMPOC,0,1011,1008,0,3
+6,2020-07-29,"SANTA YNEZ VALLEY including the Cities of Solvang & Buellton, and the communities of Santa Ynez, Los Alamos, Los Olivos and Ballard",0,67,64,3,0
+1,2020-07-29,"SOUTH COUNTY UNINCORPORATED AREA includes communities of Montecito, Summerland and the City of Carpinteria",12,137,114,23,0
+0,2020-07-29,Santa Barbara County Totals,91,6021,5640,349,32
+5,2020-07-29,UNINCORPORATED AREA OF THE GOLETA VALLEY AND GAVIOTA,3,102,95,6,1
+11,2020-07-29,"UNINCORPORATED AREAS of Sisquoc, Casmalia, Garey,  Cuyama, New Cuyama, and the City of Guadalupe",4,250,232,18,0
