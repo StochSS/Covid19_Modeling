@@ -41,7 +41,7 @@ creation interface
 ![reactions](images/reactions_interface.png)
 
 A pre-implemented version of this model with some default parameters can be
-found [here](epidemiological/santa_barbara/seiyrdc.mdl).
+found [here](epidemiological/santa_barbara/seiyrdc_sb.mdl).
 
 In the model creation interface, we can also preview trajectories if we were to
 consider the model as either discrete stochastic or an ODE model.
