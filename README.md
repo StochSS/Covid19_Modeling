@@ -67,9 +67,10 @@ for [Buncombe, NC](epidemiological/buncombe/seiyrdc_buncombeSciopeMI.ipynb).
 ## Parameter Estimation using ABC
 
 We will estimate the parameters of the model using the Approximate Bayesian
-Computation [TODO: ADD REFERENCE ABC]algorithms in the Sciope library.  To do this, we need to complete
-the following parts of the notebook. In particular, we will use the
-implemented Replenishment SMC-ABC algorithm [TODO: ADD REFERENCE REPSMCABC].
+Computation [TODO: ADD REFERENCE ABC]algorithms in the Sciope library.  To do
+this, we need to complete the following parts of the notebook. In particular,
+we will use the implemented Replenishment SMC-ABC algorithm
+[TODO: ADD REFERENCE REPSMCABC].
 
 1. Prior distribution over parameters
 
@@ -89,7 +90,8 @@ this is broken down into these 3 but for Buncombe, we observe cumulative
 symptomatic and recovered.
 
 3. Summary Statistics and Distance Functions
-![summary statistic cell](images/summary_statistics.png)
+
+![summary statistic cell](images/summary_stats_cell.png)
 
 For summary statistics, we normalize the output by the max and use the default
 Euclidean distance.
