@@ -1,10 +1,22 @@
-# Covid19_Modeling
+# Epidemiological Modeling with New StochSS 2.1
 
 This repository provides an example of using StochSS to
 implement a specific epidemiological and estimate the parameters for
 a specific county.  StochSS can be found at https://app.stochss.org and the
 repository can be directly downloaded and executed in the web interface to
 replicate results.
+
+## Table of Contents
+
+- [Implementing An Epidemiological Model in StochSS] (#implementing-an-epidemiological-model-in-stochss)
+  - [Model Description] (#model-description)
+  - [Implementation] (#implementation)
+- [Parameter Estimation Workflow using ABC] (#parameter-estimation-workflow-using-abc)
+  - [Reading Data] (#reading-in-data)
+  - [ABC Requirements] (#abc-requirements)
+- [References] (#references)
+
+## Implementing An Epidemiological Model in StochSS
 
 In the following, we describe the epidemiological model we use, and demonstrate
 how it can be implemented in the StochSS web interface. Then we describe the
@@ -34,10 +46,12 @@ Infected → Cleared  ($\kappa$)
 This model assumes that *only asymptomatic transmission is possible*,
 *all asymptomatic cases recover*, and that *all parameters are static*.
 
+### Implementation
+
 Using this specification, we can implement the model in StochSS in the model
 creation interface
 
-![reactions](images/reactions_interface.png)
+![reactions](images/reactions_panel.png)
 
 A pre-implemented version of this model with some default parameters can be
 found [here](epidemiological/santa_barbara/seiyrdc_sb.mdl).
@@ -50,7 +64,7 @@ consider the model as either discrete stochastic or an ODE model.
 After we are satisfied with our model, we can click "New Workflow" which allows
 us to further analyze the model in a variety of different ways.
 
-![workflow](images/workflow_selection.png)
+![workflow](images/workflow_panel.png)
 
 ## Parameter Estimation Workflow using ABC
 
@@ -63,14 +77,14 @@ The completed workflow is included for
 and
 for [Buncombe, NC](epidemiological/buncombe/seiyrdc_buncombeSciopeMI.ipynb).
 
-### Data
+### Reading In Data
 
 Data for estimating parameters should be loaded in the data block.  The
 `obs_data` object should contain the final completed dataset.
 
 ![data cell](images/data_cell.png)
 
-### Specification
+### ABC Requirements
 
 To use the Approximate Bayesian Computation [TODO: ADD REFERENCE ABC]algorithms
  in the Sciope library, we need to complete the following parts of the notebook:
@@ -96,7 +110,7 @@ symptomatic and recovered.
 
 ![summary statistic cell](images/summary_stats_cell.png)
 
-### Running the Inference
+### Estimating Parameters and Analyzing Posteriors
 
 The default algorithm we use is Replenishment ABC-SMC.  Sciope uses dask
 to parallelize inference so we use the StochSS servers to use more processes.
@@ -107,8 +121,6 @@ The inference returns a `np.array` of samples from the the posterior
 distribution stored in the `posterior` object.  Each sample can be used
 as a set of parameters in the model to generate further trajectories.
 
-## Analyzing the Results
-
 Below, we show the posterior distribution of parameters for Santa Barbara as
 well as generated data from the model using the posterior samples
 (posterior predictive).
@@ -116,3 +128,5 @@ well as generated data from the model using the posterior samples
 ![posterior_distribtuions](images/posterior_sb.png)
 
 ![posterior_predictive](/images/posterior_predictive_sb.png)
+
+## References
