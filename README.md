@@ -8,13 +8,13 @@ replicate results.
 
 ## Table of Contents
 
-- [Implementing An Epidemiological Model in StochSS] (#implementing-an-epidemiological-model-in-stochss)
-  - [Model Description] (#model-description)
-  - [Implementation] (#implementation)
-- [Parameter Estimation Workflow using ABC] (#parameter-estimation-workflow-using-abc)
-  - [Reading Data] (#reading-in-data)
-  - [ABC Requirements] (#abc-requirements)
-- [References] (#references)
+- [Implementing An Epidemiological Model in StochSS](#implementing-an-epidemiological-model-in-stochss)
+  - [Model Description](#model-description)
+  - [Implementation](#implementation)
+- [Parameter Estimation Workflow using ABC](#parameter-estimation-workflow-using-abc)
+  - [Reading Data](#reading-in-data)
+  - [ABC Requirements](#abc-requirements)
+- [References](#references)
 
 ## Implementing An Epidemiological Model in StochSS
 
