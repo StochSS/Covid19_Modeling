@@ -6,14 +6,13 @@ a specific county.  StochSS can be found at https://app.stochss.org and the
 repository can be directly downloaded and executed in the web interface to
 replicate results.
 
-In the following, we will describe the epidemiological model we will be using,
-demonstrate how it can be implemented in the StochSS web interface, and finally
-describe the process of reading in COVID19 data and estimating the parameters of
-the implemented model.
+In the following, we describe the epidemiological model we use, and demonstrate
+how it can be implemented in the StochSS web interface. Then we describe the
+process of creating a parameter inference workflow for some local COVID19 data.
 
 ## Model Description
 
-The epidemiological model we will be building is an extended version of the
+The epidemiological model we implement is an extended version of the
 SEIRD model that accounts for symptomatic and asymptomatic cases. The involved
 compartments (species) are: susceptible (S), exposed (E), infected (I),
 symptomatic (Y), recovered (R), dead (D), and cleared (C).  The system can be
@@ -53,33 +52,37 @@ us to further analyze the model in a variety of different ways.
 
 ![workflow](images/workflow_selection.png)
 
-## Parameter Estimation
+## Parameter Estimation Workflow using ABC
 
-We will estimate the parameters of the model for Santa Barbara and Buncombe
-counties using the "Sciope Model Inference" workflow.  This will automatically
-create a Jupyter notebook with many cells auto-populated.
+We estimate the parameters of the model for Santa Barbara and Buncombe
+counties using the "Sciope Model Inference" workflow.  This automatically
+creates a Jupyter notebook with many cells auto-populated.
 
 The completed workflow is included for
 [Santa Barbara, CA](epidemiological/santa_barbara/seiyrdc_sbSciopeMI.ipynb)
 and
 for [Buncombe, NC](epidemiological/buncombe/seiyrdc_buncombeSciopeMI.ipynb).
 
-## Parameter Estimation using ABC
+### Data
 
-We will estimate the parameters of the model using the Approximate Bayesian
-Computation [TODO: ADD REFERENCE ABC]algorithms in the Sciope library.  To do
-this, we need to complete the following parts of the notebook. In particular,
-we will use the implemented Replenishment SMC-ABC algorithm
-[TODO: ADD REFERENCE REPSMCABC].
+Data for estimating parameters should be loaded in the data block.  The
+`obs_data` object should contain the final completed dataset.
 
-1. Prior distribution over parameters
+![data cell](images/data_cell.png)
+
+### Specification
+
+To use the Approximate Bayesian Computation [TODO: ADD REFERENCE ABC]algorithms
+ in the Sciope library, we need to complete the following parts of the notebook:
+
+1. Prior cell
 
 ![prior cell](images/prior_cell.png)
 
-We will use independent uniform priors over each parameter.
+2. Simulator function
 
-2. A method that takes in a parameter sample and outputs a simulation that matches
-   the shape of the data
+This function should take in a parameter array and output a simulation from the
+model that matches the shape of the observed data.
 
 ![simulator cell](images/simulator_cell.png)
 
@@ -93,15 +96,22 @@ symptomatic and recovered.
 
 ![summary statistic cell](images/summary_stats_cell.png)
 
-For summary statistics, we normalize the output by the max and use the default
-Euclidean distance.
+### Running the Inference
+
+The default algorithm we use is Replenishment ABC-SMC.  Sciope uses dask
+to parallelize inference so we use the StochSS servers to use more processes.
+
+![inference cell](images/inference_cell.png)
+
+The inference returns a `np.array` of samples from the the posterior
+distribution stored in the `posterior` object.  Each sample can be used
+as a set of parameters in the model to generate further trajectories.
 
 ## Analyzing the Results
 
-We can look at the posterior distribution to get an idea of the possible
-parameter values as well as uncertainty estimates.  The most interesting
-parameter here is the $beta$, which corresponds to the infectivity of virus as
-estimated from the data.  
+Below, we show the posterior distribution of parameters for Santa Barbara as
+well as generated data from the model using the posterior samples
+(posterior predictive).
 
 ![posterior_distribtuions](images/posterior_sb.png)
 
