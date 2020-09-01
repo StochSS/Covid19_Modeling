@@ -30,18 +30,18 @@ compartments (species) are: susceptible (S), exposed (E), infected (I),
 symptomatic (Y), recovered (R), dead (D), and cleared (C).  The system can be
 visualized as:
 
-![seiyrdc_visual](images/seirdc_visual.png)
+![seiyrdc_visual](images/seiyrdc.svg)
 
 The system evolves according to SEIR dynamics but with a chance of becoming
 symptomatic after being exposed.  In more detail, we have the following set of
 reactions:
 
-Susceptible + Infected → Infected + Exposed ($\beta/P$)   
-Exposed → Infected  ($\0.16 (1 - \nu )$)  
-Exposed → Symptomatic  ($0.16 \nu$)  
-Symptomatic → Recovered  ($\kappa)  
-Symptomatic → Dead ($\delta)  
-Infected → Cleared  ($\kappa$)
+Susceptible + Infected → Infected + Exposed  
+Exposed → Infected    
+Exposed → Symptomatic    
+Symptomatic → Recovered  
+Symptomatic → Dead   
+Infected → Cleared  
 
 This model assumes that *only asymptomatic transmission is possible*,
 *all asymptomatic cases recover*, and that *all parameters are static*.
@@ -59,7 +59,7 @@ found [here](epidemiological/santa_barbara/seiyrdc_sb.mdl).
 In the model creation interface, we can also preview trajectories if we were to
 consider the model as either discrete stochastic or an ODE model.
 
-![preview](images/model_preview.png)
+![preview](images/preview.svg)
 
 After we are satisfied with our model, we can click "New Workflow" which allows
 us to further analyze the model in a variety of different ways.
