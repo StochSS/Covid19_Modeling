@@ -61,16 +61,13 @@ consider the model as either discrete stochastic or an ODE model.
 
 ![preview](images/preview.svg)
 
-After we are satisfied with our model, we can click "New Workflow" which allows
-us to further analyze the model in a variety of different ways.
-
-![workflow](images/workflow_panel.png)
-
 ## Parameter Estimation Workflow using ABC
 
 We estimate the parameters of the model for Santa Barbara and Buncombe
-counties using the "Sciope Model Inference" workflow.  This automatically
-creates a Jupyter notebook with many cells auto-populated.
+counties using the "Sciope Model Inference" workflow in StochSS.  This
+automatically creates a Jupyter notebook with many cells auto-populated.
+
+![workflow](images/workflow_panel.png)
 
 The completed workflow is included for
 [Santa Barbara, CA](epidemiological/santa_barbara/seiyrdc_sbSciopeMI.ipynb)
@@ -86,7 +83,7 @@ Data for estimating parameters should be loaded in the data block.  The
 
 ### ABC Requirements
 
-To use the Approximate Bayesian Computation [TODO: ADD REFERENCE ABC]algorithms
+To use the Approximate Bayesian Computation [[1]](#reference),[[2]](#references) algorithms
  in the Sciope library, we need to complete the following parts of the notebook:
 
 1. Prior cell
@@ -130,3 +127,6 @@ well as generated data from the model using the posterior samples
 ![posterior_predictive](/images/posterior_predictive_sb.png)
 
 ## References
+ [1] Sisson, Scott A., Yanan Fan, and Mark Beaumont, eds. Handbook of approximate Bayesian computation. CRC Press, 2018.
+
+ [2] C. C. Drovandi and A. N. Pettitt.  Estimation of parameters  for  macroparasite  population  evolution  us-ing approximate Bayesian computation.Biometrics,67(1):225–233, 2011.
