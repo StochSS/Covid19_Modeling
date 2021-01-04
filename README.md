@@ -37,8 +37,7 @@ visualized as:
 ![seiyrdc_visual](images/seiyrdc.svg)
 
 The system evolves according to SEIR dynamics but with a chance of becoming
-symptomatic after being exposed.  In more detail, we have the following set of
-reactions:
+symptomatic after being exposed.  We fix the rate at which exposed patients become infectious at 0.16, which represents ~6.25 day incubation period and estimate the proportion of patients who become infected vs. symptomatic.  This is roughly adopted from a similar model [[5]](#references).  Specifically, we have the following set of reactions:
 
 Susceptible + Infected → Infected + Exposed  
 Exposed → Infected    
@@ -48,7 +47,8 @@ Symptomatic → Dead
 Infected → Cleared  
 
 This model assumes that *only asymptomatic transmission is possible*,
-*all asymptomatic cases recover*, and that *all parameters are static*.
+*all asymptomatic cases recover*, and that *all parameters are static*.  The
+fixed value $0.16$ represents the rate at which exposed
 
 ### Implementation
 
@@ -149,3 +149,5 @@ the data.
 
  [4] Dask Development Team (2016). Dask: Library for dynamic task scheduling
 URL https://dask.org
+
+ [5] Flaxman, S., Mishra, S., Gandy, A. et al. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. Nature 584, 257–261 (2020). https://doi.org/10.1038/s41586-020-2405-7
