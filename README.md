@@ -5,7 +5,7 @@ implement a specific epidemiological model and to estimate the parameters for
 it for a specific county.  
 
 StochSS Live! is the web interface for developing and investigating
-stochastic models found at https://app.stochss.org.  All results can be replicated
+stochastic models found at https://live.stochss.org.  All results can be replicated
 by importing this repositories and notebooks into StochSS Live!.  
 
 The libraries used by StochSS Live! for simulation and analysis are a part of the [StochSS suite of software](https://github.com/StochSS).
