@@ -47,8 +47,7 @@ Symptomatic → Dead
 Infected → Cleared  
 
 This model assumes that *only asymptomatic transmission is possible*,
-*all asymptomatic cases recover*, and that *all parameters are static*.  The
-fixed value $0.16$ represents the rate at which exposed
+*all asymptomatic cases recover*, and that *all parameters are static*.
 
 ### Implementation
 
