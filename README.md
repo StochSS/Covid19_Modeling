@@ -9,6 +9,7 @@ stochastic models found at https://live.stochss.org.  All results can be replica
 by importing this repositories and notebooks into StochSS Live!.  
 
 The libraries used by StochSS Live! for simulation and analysis are a part of the [StochSS suite of software](https://github.com/StochSS).
+To install the required libraries from the requirements file, run `pip install -r requirements.txt`.
 
 ## Table of Contents
 
@@ -24,7 +25,7 @@ The libraries used by StochSS Live! for simulation and analysis are a part of th
 
 In the following, we describe the epidemiological model we use, and demonstrate
 how it can be implemented in the StochSS Live! web interface. Then we describe the
-process of creating a parameter inference workflow for some local COVID19 data.
+process of creating a parameter inference workflow for some local COVID19 data
 
 ## Model Description
 
